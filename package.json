@@ -41,5 +41,6 @@
         "path": "./themes/Paldean Wooper Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "logo.png"
 }
