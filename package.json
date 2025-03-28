@@ -4,6 +4,29 @@
   "description": "A Paldean Wooper theme for VS Code!",
   "version": "0.0.1",
   "publisher": "TaylorWayne",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tayywayne/paldean-wooper-vscode-theme"
+  },
+  "keywords": [
+    "paldean",
+    "wooper",
+    "theme",
+    "color",
+    "dark",
+    "vscode",
+    "pokemon",
+    "soft",
+    "warm",
+    "cute",
+    "nuetral",
+    "friendly",
+    "calm",
+    "beige",
+    "brown",
+    "green",
+    "purple"
+  ],
   "engines": {
     "vscode": "^1.98.0"
   },
