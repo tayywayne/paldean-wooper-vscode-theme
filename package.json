@@ -1,0 +1,22 @@
+{
+  "name": "paldean-wooper-theme",
+  "displayName": "Paldean Wooper Theme",
+  "description": "A Paldean Wooper theme for VS Code!",
+  "version": "0.0.1",
+  "publisher": "TaylorWayne",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Paldean Wooper Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paldean Wooper Theme-color-theme.json"
+      }
+    ]
+  }
+}
