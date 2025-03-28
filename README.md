@@ -1,6 +1,7 @@
 
 # Paldean Wooper VS Code Theme
 ![wooper](/wooper.gif)
+
 A dark yet warm and comforting themed based on the adorable Paldean Wooper
 
 ### Preview
